@@ -1,0 +1,19 @@
+#title , #description {
+    color:#000;
+    text-align: center;
+    font-size: 2rem;
+}
+
+body {
+box-sizing: 0px;
+}
+
+#form-section {
+    margin:auto;
+    background-color: blanchedalmond;
+}
+
+input {
+    margin-top: 5px;
+    border: 1px solid black;
+}
