@@ -15,3 +15,5 @@ Build a Simon Game *
 Survey Form *
 
 Product Landing Page *
+
+Documentation Page *

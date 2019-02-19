@@ -1,0 +1,21 @@
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: lightblue;
+    }
+}
+#header {
+    height: 100vh;
+
+}
+
+#nav-bar {
+    position: fixed;
+}
+
+#footer {
+    margin-top: 2rem;
+}
+
+.flex-container {
+    display: flex;
+}
